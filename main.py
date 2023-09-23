@@ -53,7 +53,7 @@ gravatar = Gravatar(app,
                     base_url=None)
 
 # CONNECT TO DB
-app.config['SQLALCHEMY_DATABASE_URI'] =  os.environ.get('DB_URL', , 'sqlite:///PhotoGram.db')
+app.config['SQLALCHEMY_DATABASE_URI'] =  os.environ.get('DB_URL', 'sqlite:///PhotoGram.db')
 db = SQLAlchemy()
 db.init_app(app)
 
