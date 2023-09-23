@@ -1,5 +1,5 @@
 
-5. **Access PhotoGram:** Open your web browser and go to https://photogram-qywe.onrender.com/ to start using PhotoGram.
+**Access PhotoGram:** Open your web browser and go to https://photogram-qywe.onrender.com/ to start using PhotoGram.
 
 ## Usage
 
