@@ -17,6 +17,5 @@ We welcome contributions from the community! If you have ideas for new features,
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code as per the terms of the license.
-
+This project is licensed under the ITM License, and all rights are reserved. You are free to use, modify, and distribute the code as per the terms of the license. Feel free to add commits.
 Happy photographing and sharing on PhotoGram! 📷✨
